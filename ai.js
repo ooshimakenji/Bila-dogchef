@@ -39,7 +39,7 @@ export async function getRecipeFromChefClaude(ingredientsArr) {
 
 // Make sure you set an environment variable in Scrimba 
 // for HF_ACCESS_TOKEN
-const hf = new HfInference("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")
+const hf = new HfInference("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")
 
 export async function getRecipeFromMistral(ingredientsArr) {
     const ingredientsString = ingredientsArr.join(", ")
