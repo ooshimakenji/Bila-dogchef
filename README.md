@@ -2,12 +2,12 @@
 
 ![React](https://img.shields.io/badge/React-18-61DAFB?logo=react&logoColor=black) ![Vite](https://img.shields.io/badge/Vite-bundler-646CFF?logo=vite&logoColor=white) ![Claude API](https://img.shields.io/badge/Claude-API-blueviolet) ![Netlify](https://img.shields.io/badge/Netlify-Functions-00C7B7?logo=netlify&logoColor=white) ![Licença](https://img.shields.io/badge/licença-MIT-green)
 
-App React onde a Bila (poodle chef) sugere receitas criativas com base nos ingredientes que você tem em casa, usando IA.
+Aplicativo React em que a Bila — uma poodle chef — sugere receitas criativas com base nos ingredientes disponíveis na sua cozinha, com auxílio de inteligência artificial.
 
 ## Como funciona
 
 1. Adicione os ingredientes disponíveis na sua cozinha
-2. A IA gera uma receita criativa com o que você tem
+2. A IA cria uma receita personalizada a partir do que você tem em casa
 3. A receita é exibida em formato rich text com markdown
 
 ## Stack
